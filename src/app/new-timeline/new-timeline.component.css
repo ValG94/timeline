@@ -1,0 +1,29 @@
+.new-table{
+display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: lightpink;
+  width: 80%;
+  margin: auto;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+
+
+th{
+  vertical-align: inherit;
+  font-weight: bold;
+  text-align: center;
+}
+.new-card{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: lightpink;
+  width: 90%;
+  margin: auto;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+
+

@@ -1,0 +1,37 @@
+body{
+  font-family: "Comic Sans MS";
+  margin: 2em;
+  color: rgba(130,2,99,1);
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+
+h1 {
+  font-family: "Comic Sans MS";
+  color: indigo;
+  padding: 30px 40px;
+  margin: 0;
+  text-align: center;
+}
+a{
+  width: 200px;
+  font-family: "Comic Sans MS";
+  padding: 5px 10px;
+  margin: 20px 0;
+  font-size: 1.3em;
+  color: #f5f5f5;
+  text-decoration: none;
+}
+
+.button{
+  border-radius: 3px;
+  background-color: crimson;
+  font-family: "Comic Sans MS";
+  color:#f5f5f5;
+  text-align: center;
+ }
+
+
